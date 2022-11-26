@@ -158,7 +158,7 @@ EOF
                 download https://github.com/fatedier/frp/releases/download/v0.45.0/frp_v0.45.0_linux_386.tar.gz
             ;;
             2)
-                download https://github.com/fatedier/frp/releases/download/vv0.45.0/frp_0.45.0_linux_amd64.tar.gz
+                download https://github.com/fatedier/frp/releases/download/v0.45.0/frp_0.45.0_linux_amd64.tar.gz
             ;;
             3)  
                 download https://github.com/fatedier/frp/releases/download/v0.45.0/frp_0.45.0_linux_arm.tar.gz
