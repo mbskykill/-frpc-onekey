@@ -155,7 +155,7 @@ EOF
         read -p "请输入序号:" key
         case $key in
             1)
-                download https://github.com/fatedier/frp/releases/download/v0.45.0/frp_v0.45.0_linux_386.tar.gz
+                download https://github.com/fatedier/frp/releases/download/v0.45.0/frp_0.45.0_linux_386.tar.gz
             ;;
             2)
                 download https://github.com/fatedier/frp/releases/download/v0.45.0/frp_0.45.0_linux_amd64.tar.gz
